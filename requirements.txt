@@ -1,0 +1,2 @@
+python-telegram-bot==20.5
+environs==9.5.0
